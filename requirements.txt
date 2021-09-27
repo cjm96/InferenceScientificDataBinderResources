@@ -1,8 +1,5 @@
 matplotlib
 numpy
-pandas
 scipy
-seaborn
 corner
 cpnest
-dynesty
